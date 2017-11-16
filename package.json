@@ -1,0 +1,16 @@
+{
+	"name": "ponda_tuto1",
+	"version": "1.0.0",
+	"description": "",
+	"main": "ponda_server.js",
+	"scripts": {
+		"start": "nodemon ponda_server",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Adonai NANGUI",
+	"license": "ISC",
+	"dependencies": {
+		"body-parser": "^1.18.2",
+		"express": "^4.16.2"
+	}
+}
